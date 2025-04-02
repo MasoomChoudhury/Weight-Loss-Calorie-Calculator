@@ -1,5 +1,9 @@
 # Personalized Weight Loss Planner & Calorie Calculator (React App)
 
+**Live Demo:** [https://MasoomChoudhury.github.io/Weight-Loss-Calorie-Calculator/](https://MasoomChoudhury.github.io/Weight-Loss-Calorie-Calculator/)
+
+---
+
 Hi there! This is a simple React web application I built as part of my learning process. It helps estimate daily calorie needs for weight loss based on user inputs.
 
 ## Project Goal
