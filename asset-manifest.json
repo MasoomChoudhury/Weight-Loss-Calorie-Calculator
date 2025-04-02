@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Weight-Loss-Calorie-Calculator/static/css/main.3350599d.css",
+    "main.js": "/Weight-Loss-Calorie-Calculator/static/js/main.c8d04812.js",
+    "index.html": "/Weight-Loss-Calorie-Calculator/index.html",
+    "main.3350599d.css.map": "/Weight-Loss-Calorie-Calculator/static/css/main.3350599d.css.map",
+    "main.c8d04812.js.map": "/Weight-Loss-Calorie-Calculator/static/js/main.c8d04812.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3350599d.css",
+    "static/js/main.c8d04812.js"
+  ]
+}
